@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anxe-lica
+- 👋 Hi, I’m Angelica
 - 👀 I’m interested in expanding my programming skills
 - 🌱 I’m currently learning Python & SQL
 - 💞️ I’m looking to collaborate on ...
